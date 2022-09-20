@@ -1,4 +1,5 @@
 import streamlit
 
-streamlit.title('First Stream Lit Code')
+streamlit.title('My parents new Diner')
+streamlit.heading('Menu')
 
